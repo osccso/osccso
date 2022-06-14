@@ -44,11 +44,12 @@ Good proficiency
 Basic proficiency
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,nodejs,firebase,fortran,java,octave,latex,ai,figma,heroku&perline=10" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,nodejs,firebase,fortran,java,latex,ai,figma,heroku&perline=10" />
   </a>
 </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osccso&layout=compact"/>
+</p>
 <!---
 osccso/osccso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
