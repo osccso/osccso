@@ -7,7 +7,7 @@ I'm mainly interested in web development 🌐 and currently improving my skills 
 - Javascript
 - React
 - Node.js
-- C+
+- C++
 - Python
 
 Open to learn and/or  expand on different topics:
