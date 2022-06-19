@@ -49,7 +49,7 @@ Basic proficiency
 </p>
 <!--language stats --->
 <p align="center">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osccso&layout=compact&langs_count=10"/>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osccso&layout=compact&langs_count=15"/>
 </p>
 <!---
 osccso/osccso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
