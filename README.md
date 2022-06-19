@@ -47,8 +47,9 @@ Basic proficiency
     <img src="https://skillicons.dev/icons?i=androidstudio,nodejs,firebase,fortran,java,latex,ai,figma,heroku&perline=10" />
   </a>
 </p>
+<!--language stats --->
 <p align="center">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osccso&layout=compact"/>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osccso&layout=compact&langs_count=10"/>
 </p>
 <!---
 osccso/osccso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
