@@ -40,7 +40,7 @@ Languages, frameworks and tools
   </a>
 </p>
 
-Elemental proficiency
+Basic proficiency
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,nodejs,firebase,fortran,java,latex,ai,figma,heroku&perline=10" />
