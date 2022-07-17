@@ -37,7 +37,7 @@ Languages, frameworks and tools
 Good proficiency
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,redux,bootstrap,tailwind,vscode,py,sass,cpp,html,css,github,styledcomponents,octave,regex,autocad&perline=10" />
+    <img src="https://skillicons.dev/icons?i=js,react,redux,bootstrap,tailwind,vscode,py,flask,sass,cpp,html,css,github,styledcomponents,octave,regex,autocad&perline=10" />
   </a>
 </p>
 
