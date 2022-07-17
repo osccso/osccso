@@ -34,14 +34,13 @@ You can find here different repositories related to :
 
 Languages, frameworks and tools
 
-Good proficiency
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,redux,bootstrap,tailwind,vscode,py,flask,sass,cpp,html,css,github,styledcomponents,octave,regex,autocad&perline=10" />
   </a>
 </p>
 
-Basic proficiency
+Elemental proficiency
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,nodejs,firebase,fortran,java,latex,ai,figma,heroku&perline=10" />
