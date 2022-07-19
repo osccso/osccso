@@ -32,7 +32,7 @@ You can find here different repositories related to :
 💞️ I’m looking to collaborate on any of the topics mentioned above
 
 📫 You can reach me here ->
-[Linkedin](linkedin.com/in/oscar-montaño-522a0747/)
+[Linkedin](https://www.linkedin.com/in/oscar-monta%C3%B1o-522a0747/)
 
 Languages, frameworks and tools
 
